@@ -81,11 +81,11 @@ I consistently practice Data Structures & Algorithms to improve logical thinking
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumitkalamkar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumitkalamkar&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitkalamkar&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Sumitkalamkar&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
