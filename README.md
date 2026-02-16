@@ -7,13 +7,13 @@
 <h3 align="center">AI & Machine Learning Engineer | GenAI | Cloud | DSA Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sumit-kalamkar-756056260/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/sumit-kalamkar-756056260/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:sumitkalamkar2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://leetcode.com/u/Sumit_Kalamkar/">
+  <a href="https://leetcode.com/u/Sumit_Kalamkar/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
