@@ -1,87 +1,122 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="380"/>
-</p>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" />
+</div>
 
-<h1 align="center">Hi 👋 I'm Sumit Kalamkar</h1>
-<h3 align="center">AI & Machine Learning Engineer | GenAI | Cloud | Data Analytics</h3>
+###
 
-<p align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there+👋+I'm+Sumit+Kalamkar;AI+%26+Machine+Learning+Engineer;GenAI+%7C+LLMs+%7C+Cloud+AI;B.Tech+AI+Student;Open+Source+Enthusiast" />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/sumit-kalamkar-756056260/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="30"/>
   </a>
-  <a href="mailto:sumitkalamkar2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:sumitkalamkar2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="30"/>
   </a>
   <a href="https://github.com/Sumitkalamkar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="30"/>
   </a>
-</p>
+</div>
+
+###
+
+<h1 align="center">🚀 AI Engineer | Cloud AI | Generative AI</h1>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sumitkalamkar&style=for-the-badge&color=00F7FF"/>
+  <img src="https://img.shields.io/github/followers/Sumitkalamkar?style=for-the-badge&color=50fa7b&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/github/stars/Sumitkalamkar?style=for-the-badge&color=ff79c6&labelColor=1a1b27"/>
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning (GPA: 8.75/10)  
-🤖 Passionate about AI, ML, NLP, LLMs & Cloud-based AI Systems  
-☁️ Experienced in AWS, Azure & OCI Generative AI  
-🏆 2nd Place – Christ University Hackathon (Ares Techwar)  
+I'm **Sumit Kalamkar**, a B.Tech student specializing in **Artificial Intelligence & Machine Learning (GPA: 8.75/10)**.
+
+💡 I build intelligent, scalable AI systems using:
+
+- Machine Learning & Deep Learning  
+- NLP & Large Language Models (LLMs)  
+- Cloud Platforms (AWS | Azure | OCI)  
+- Production-ready AI Deployment  
+
+🏆 2nd Place – Christ University Hackathon  
 🥇 1st Place – SIH Internal Round  
 
-I build intelligent, scalable, real-world AI systems combining Machine Learning, Cloud, and Automation.
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+
+</div>
 
 ---
 
-## 🧠 Daily DSA & Competitive Programming
+## 📊 GitHub Analytics
 
-- 📅 Daily LeetCode practice  
-- 📊 Strong focus on time & space complexity  
-- 🔥 Arrays, Strings, Recursion, Linked List, Trees, Graphs, DP  
-- 🎯 Targeting top product-based companies  
+###
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sumit_Kalamkar?theme=tokyonight&ext=contest" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumitkalamkar&theme=tokyo-night&area=true&radius=16" />
+</div>
 
----
+###
 
-## 🛠 Tech Stack & Tools
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumitkalamkar&theme=tokyonight" width="100%" />
+</div>
 
-<p align="center">
+###
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumitkalamkar&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumitkalamkar&theme=tokyonight" />
+</div>
 
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" />
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+###
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure" />
-<img src="https://img.shields.io/badge/OCI-FF0000?style=for-the-badge&logo=oracle" />
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion" />
-
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumitkalamkar&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumitkalamkar&theme=tokyonight&utcOffset=5.5" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumitkalamkar&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
+- 🔥 Advanced LLM Applications  
+- 🧠 RAG Systems & Vector Databases  
+- ☁️ Cloud-native AI Deployment  
+- 📈 Optimized DSA & Competitive Programming  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sumitkalamkar&theme=tokyonight&cache_seconds=1800" />
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sumitkalamkar&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
+<div align="center">
+  
+  ⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
