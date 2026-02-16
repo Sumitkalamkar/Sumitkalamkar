@@ -20,6 +20,10 @@
   <a href="https://github.com/Sumitkalamkar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="30"/>
   </a>
+  <a href="https://sumitkalamkar.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&color=00F7FF&logoColor=white&style=for-the-badge" height="30"/>
+  </a>
+
 </div>
 
 ###
