@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="380"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Sumit Kalamkar</h1>
@@ -28,18 +27,16 @@
 🏆 2nd Place – Christ University Hackathon (Ares Techwar)  
 🥇 1st Place – SIH Internal Round  
 
-I enjoy building real-world AI systems that combine Machine Learning, Data Analytics, Cloud, and Automation.
+I build intelligent, scalable, real-world AI systems combining Machine Learning, Cloud, and Automation.
 
 ---
 
 ## 🧠 Daily DSA & Competitive Programming
 
-I consistently practice Data Structures & Algorithms to improve logical thinking and optimization skills.
-
-- 📅 Daily LeetCode problem solving
-- 📊 Focus on time & space complexity
-- 🔥 Topics: Arrays, Strings, Recursion, Linked List, Trees, Graphs, DP
-- 🎯 Target: Product-based companies & strong system design foundation
+- 📅 Daily LeetCode practice  
+- 📊 Strong focus on time & space complexity  
+- 🔥 Arrays, Strings, Recursion, Linked List, Trees, Graphs, DP  
+- 🎯 Targeting top product-based companies  
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Sumit_Kalamkar?theme=tokyonight&ext=contest" />
@@ -51,24 +48,20 @@ I consistently practice Data Structures & Algorithms to improve logical thinking
 
 <p align="center">
 
-<!-- Programming -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
 
-<!-- AI / ML -->
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" />
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
 
-<!-- Cloud -->
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure" />
 <img src="https://img.shields.io/badge/OCI-FF0000?style=for-the-badge&logo=oracle" />
 
-<!-- Tools -->
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
@@ -78,6 +71,7 @@ I consistently practice Data Structures & Algorithms to improve logical thinking
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -88,9 +82,6 @@ I consistently practice Data Structures & Algorithms to improve logical thinking
   <img src="https://streak-stats.demolab.com?user=Sumitkalamkar&theme=tokyonight&cache_seconds=1800" />
 </p>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sumitkalamkar&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
-
