@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋 I'm Sumit Kalamkar</h1>
-<h3 align="center">AI & Machine Learning Engineer | GenAI | Cloud | DSA Enthusiast</h3>
+<h3 align="center">AI & Machine Learning Engineer | GenAI | Cloud | Data Analytics</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumit-kalamkar-756056260/" target="_blank">
@@ -12,8 +12,8 @@
   <a href="mailto:sumitkalamkar2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://leetcode.com/u/Sumit_Kalamkar/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  <a href="https://github.com/Sumitkalamkar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
