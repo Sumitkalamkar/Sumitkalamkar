@@ -7,13 +7,13 @@
 <h3 align="center">AI & Machine Learning Engineer | GenAI | Cloud | DSA Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/sumit-kalamkar-756056260/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:sumitkalamkar2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME">
+  <a href="https://leetcode.com/u/Sumit_Kalamkar/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
@@ -42,7 +42,7 @@ I consistently practice Data Structures & Algorithms to improve logical thinking
 - 🎯 Target: Product-based companies & strong system design foundation
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=tokyonight&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Sumit_Kalamkar?theme=tokyonight&ext=contest" />
 </p>
 
 ---
@@ -88,16 +88,6 @@ I consistently practice Data Structures & Algorithms to improve logical thinking
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" />
 </p>
-
----
-
-## 🚀 Highlight Projects
-
-- 🧠 **DebateOn** – AI-powered debate scoring system using NLP & transformers  
-- 🏥 **CareXpert** – Disease prediction using Logistic Regression & Random Forest  
-- 📊 **Black Friday Sales Analysis** – 500K+ records EDA & visualization  
-- 🌍 **COVID-19 Dashboard** – Interactive Tableau data visualization  
-- 🌱 **Global Sugarcane Production Analysis** – Country-wise EDA & pattern analysis  
 
 ---
 
